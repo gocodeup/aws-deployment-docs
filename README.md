@@ -10,6 +10,7 @@
     - [Amazon Web Services (AMI and EC2)](https://aws.amazon.com/pm/ec2/?trk=36c6da98-7b20-48fa-8225-4784bced9843&sc_channel=ps&s_kwcid=AL!4422!3!467723097970!e!!g!!aws%20ec2&ef_id=CjwKCAiAzp6eBhByEiwA_gGq5ErXXuZODblSfA2kK72DqF9ARSJhAeiaz7JQhXt1wsn85vbJwb4PeBoCr7MQAvD_BwE:G:s&s_kwcid=AL!4422!3!467723097970!e!!g!!aws%20ec2)
     - [Namecheap (domain name provider)](https://www.namecheap.com/)
     - [pm2 (process manager)](https://pm2.keymetrics.io/)
+    - [Ubuntu 20 LTS](https://www.hostinger.com/tutorials/what-is-ubuntu)
     - [Node.js](https://nodejs.org/en/about/)
     - [NGINX](https://www.nginx.com/resources/glossary/nginx/)
     - [vi editor](https://en.wikipedia.org/wiki/Vi)
