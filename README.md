@@ -2,7 +2,7 @@
 
 ***These instructions assume that you have already bought your domain name through [namecheap.com](https://namecheap.com). Additionally, these steps are to deploy a V2 full-stack Spring Boot application. If you are deploying a decoupled application using Spring REST and a frontend framework, the deployment instructions linked below should suffice for deploying the backend.***
 
-- ### To start the deployment process, you can [click here](./docs/1.step-one.md)!
+- ### To start the deployment process, you can [click here](./docs/1.aws-console.md)!
 
 - ### For instructions on how to update your production server, [click here](./update-docs/update-server.md)!
 
